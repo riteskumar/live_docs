@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Live Docs
+<div align="center">
+  <br />
+    <a href="https://livedocs-ritesh-kumars-projects-9c645542.vercel.app/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/7c453725-b010-40c3-9b43-cab58016e559" alt="Project Banner">
+    </a>
+  <br />
 
-## Getting Started
+  <div>
+    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=61DAFB" alt="next.js" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
 
-First, run the development server:
+   
+</div> 
+<div>
+  <a name="tech-stack">🤖 Introduction</a><br/>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+ Developed a dynamic web application using the Next.js. Enabling users to share thoughts and collaborate with friends.
+<br/>
+<br/>
+<a name="tech-stack">⚙️ Tech Stack</a>
+- Next.js
+- TypeScript
+- Liveblocks
+- ShadCN
+- Tailwind CSS
+</div>
+<a name="features">🔋 Features</a>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+👉 **Authentication**: User authentication using Google through NextAuth, ensuring secure sign-in/out and session management.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+👉 **Collaborative Text Editor**: Multiple users can edit the same document simultaneously with real-time updates.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+👉 **Documents Management**
+   - **Create Documents**: Users can create new documents, which are automatically saved and listed.
+   - **Delete Documents**: Users can delete documents they own.
+   - **Share Documents**: Users can share documents via email or link with view/edit permissions.
+   - **List Documents**: Display all documents owned or shared with the user, with search and sorting functionalities.
 
-## Learn More
+👉 **Comments**: Users can add inline and general comments, with threading for discussions.
 
-To learn more about Next.js, take a look at the following resources:
+👉 **Active Collaborators on Text Editor**: Show active collaborators with real-time presence indicators.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+👉 **Notifications**: Notify users of document shares, new comments, and collaborator activities.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+👉 **Responsive**: The application is responsive across all devices.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
